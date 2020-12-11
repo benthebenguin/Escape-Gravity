@@ -1,0 +1,26 @@
+html,body {
+    background: black;
+    color:      #CCC;
+    user-select: none;
+    font-family: 'Courier';
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier';
+
+}
+
+p {
+    text-align: center;
+    font-family: 'Courier';
+}
+
+
+canvas {
+    background: #eee;
+    background-image: url("images/space_background.gif");
+    display: block;
+    margin: 0 auto;
+    }
